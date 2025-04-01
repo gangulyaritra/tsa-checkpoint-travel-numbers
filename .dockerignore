@@ -1,0 +1,12 @@
+__pycache__/
+.git
+.github
+.gitignore
+*.egg-info/*
+build
+dags
+dist
+docker-compose.yaml
+env/*
+flowcharts
+venv/*

@@ -1,0 +1,16 @@
+black
+bs4
+doppler-sdk
+invoke
+lxml
+numpy
+pandas
+pip-tools
+plotly
+prophet
+pylint
+pytest
+python-dotenv
+requests
+snowflake-connector-python[pandas]
+streamlit
